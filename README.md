@@ -4,4 +4,4 @@ Machine Learning on the Titanic Dataset using a variety of models including:
 2. Support Vector Machines Classification
 3. Tensor Flow
 
-The dataset is publicly avaiable.
+The dataset is publicly available and has been uploaded here. 
